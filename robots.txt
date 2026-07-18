@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saumyaguptatechnokrat.github.io/AyushAromaticOil/sitemap.xml
